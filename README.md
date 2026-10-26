@@ -40,6 +40,7 @@
 ### 📱 Principais Projetos
 
 * **[ZacVolei](https://github.com/ZaCode-tech)**: Aplicativo móvel multiplataforma voltado para o gerenciamento de partidas de voleibol e controle de equipes (desenvolvido em Flutter e Firebase).
+* **[ZacLearn](https://zacode-tech.github.io/ZacLearn/)**: O ZacLearn transforma o aprendizado em um jogo com mais de 1.000 missões práticas, IDE estilo VS Code integrada e suporte com inteligência artificial, aonde o aluno aprende de graça e no final de cada curso o aplicativo emite um certificado válido na área de: Html, Java, Javascript, Python, css, C++, SQL, Kotlin, C#.
 * **[ZacPoint](https://zacode-tech.github.io/zacpoint/)**: Solução focada em bater o ponto com biometria facial ou leitura de crachá, nele vem também com controle de ponto que lembra a hora que você bateu seu ponto entrada, entrada do almoço, saida do almoço, saida e no final do mês com a autorização do RH ele calcula seus dias de trabalho faz os descontos vale transporte, inss e outros, e no fim entrega o pdf do holerite.
 * **[ZacLens](https://zacode-tech.github.io/ZacLens/)**: Ferramenta utilitária de processamento e visão computacional, que funciona como um buscador de produtos por imagem, por conta de problemas com códigos de barras, produtos sem descrição eu criei o aplicativo perfeito para estoquistas e vendedores, aonde que apenas com seu celular você aponta a câmera para o produto e ele busca no seu banco de dados e responde qual produto é dando todas as informações codigo, código de barras, descrição, valor.
 
