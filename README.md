@@ -40,7 +40,7 @@
 ### 📱 Principais Projetos
 
 * **[ZacVolei](https://github.com/ZaCode-tech)**: Aplicativo móvel multiplataforma voltado para o gerenciamento de partidas de voleibol e controle de equipes (desenvolvido em Flutter e Firebase).
-* **[ZacBarber](https://github.com/ZaCode-tech/ZaCode-tech/ZaBarber)**: Solução focada em agendamentos e controle para barbearias.
+* **[ZacPoint](https://zacode-tech.github.io/zacpoint/)**: Solução focada em bater o ponto com biometria facial ou leitura de crachá, nele vem também com controle de ponto que lembra a hora que você bateu seu ponto entrada, entrada do almoço, saida do almoço, saida e no final do mês com a autorização do RH ele calcula seus dias de trabalho faz os descontos vale transporte, inss e outros, e no fim entrega o pdf do holerite.
 * **[ZacLens](https://github.com/ZaCode-tech/ZaCode-tech/ZaLens)**: Ferramenta utilitária de processamento e visão computacional.
 
 ---
