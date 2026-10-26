@@ -41,7 +41,7 @@
 
 * **[ZacVolei](https://github.com/ZaCode-tech)**: Aplicativo móvel multiplataforma voltado para o gerenciamento de partidas de voleibol e controle de equipes (desenvolvido em Flutter e Firebase).
 * **[ZacPoint](https://zacode-tech.github.io/zacpoint/)**: Solução focada em bater o ponto com biometria facial ou leitura de crachá, nele vem também com controle de ponto que lembra a hora que você bateu seu ponto entrada, entrada do almoço, saida do almoço, saida e no final do mês com a autorização do RH ele calcula seus dias de trabalho faz os descontos vale transporte, inss e outros, e no fim entrega o pdf do holerite.
-* **[ZacLens](https://github.com/ZaCode-tech/ZaCode-tech/ZaLens)**: Ferramenta utilitária de processamento e visão computacional.
+* **[ZacLens](https://zacode-tech.github.io/ZacLens/)**: Ferramenta utilitária de processamento e visão computacional, que funciona como um buscador de produtos por imagem, por conta de problemas com códigos de barras, produtos sem descrição eu criei o aplicativo perfeito para estoquistas e vendedores, aonde que apenas com seu celular você aponta a câmera para o produto e ele busca no seu banco de dados e responde qual produto é dando todas as informações codigo, código de barras, descrição, valor.
 
 ---
 
