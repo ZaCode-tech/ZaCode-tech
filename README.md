@@ -1,5 +1,5 @@
-<h1 align="center">Olá, mundo! 👋 Eu sou o ZaCode-tech</h1>
-<h3 align="center">Desenvolvedor Mobile & Full-Stack | Apaixonado por tecnologia, automação e inovação</h3>
+<h1 align="center">Olá, mundo! 👋 Eu sou o ZacCode (Isac Gonçalves)</h1>
+<h3 align="center">Desenvolvedor Mobile & Full-Stack | Soluções em Automação e Visão Computacional</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZaCode-tech&color=blueviolet&style=flat-square" alt="Visitas ao perfil" />
@@ -10,10 +10,10 @@
 
 ### 💻 Sobre Mim
 
-* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
-* 📱 Focado no desenvolvimento de **aplicativos móveis** (Android nativo com Kotlin e cross-platform com Flutter/Dart).
-* 🛠️ Experiência com automação de processos, scripts e criação de soluções eficientes.
-* 🚀 Fundador e desenvolvedor principal dos projetos da **ZaCode tech**.
+* 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**.
+* 📱 Especializado em desenvolvimento **Mobile** (Android nativo com Kotlin/Jetpack Compose e Cross-Platform com Flutter/Dart).
+* 👁️ Experiência na criação de sistemas de **Visão Computacional**, automação de processos e desenvolvimento de produtos do zero.
+* 🚀 Fundador e desenvolvedor principal na **ZacCode tech**.
 
 ---
 
@@ -26,22 +26,32 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-#### **Back-end, Automação & Banco de Dados**
+#### **Back-end, Visão Computacional & Banco de Dados**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📱 Principais Projetos
+### 🚀 Principais Projetos
 
-* **[ZacLearn](https://zacode-tech.github.io/ZacLearn/)**: O ZacLearn transforma o aprendizado em um jogo com mais de 1.000 missões práticas, IDE estilo VS Code integrada e suporte com inteligência artificial, aonde o aluno aprende de graça e no final de cada curso o aplicativo emite um certificado válido na área de: Html, Java, Javascript, Python, css, C++, SQL, Kotlin, C#.
-* **[ZacPoint](https://zacode-tech.github.io/zacpoint/)**: Solução focada em bater o ponto com biometria facial ou leitura de crachá, nele vem também com controle de ponto que lembra a hora que você bateu seu ponto entrada, entrada do almoço, saida do almoço, saida e no final do mês com a autorização do RH ele calcula seus dias de trabalho faz os descontos vale transporte, inss e outros, e no fim entrega o pdf do holerite.
-* **[ZacLens](https://zacode-tech.github.io/ZacLens/)**: Ferramenta utilitária de processamento e visão computacional, que funciona como um buscador de produtos por imagem, por conta de problemas com códigos de barras, produtos sem descrição eu criei o aplicativo perfeito para estoquistas e vendedores, aonde que apenas com seu celular você aponta a câmera para o produto e ele busca no seu banco de dados e responde qual produto é dando todas as informações codigo, código de barras, descrição, valor.
+* 🎓 **[ZacLearn](https://zacode-tech.github.io/ZacLearn/)**
+  Plataforma gamificada para aprendizado de programação com mais de 1.000 missões práticas, IDE estilo VS Code integrada, assistente com Inteligência Artificial e emissão gratuita de certificados (módulos em HTML, CSS, JavaScript, Java, C++, C#, Python, SQL e Kotlin).
+
+* 📷 **[ZacLens](https://zacode-tech.github.io/ZacLens/)**
+  Ferramenta de Visão Computacional criada para resolver problemas logísticos e de inventário. Permite que estoquistas e vendedores identifiquem produtos instantaneamente apontando a câmera do celular, retornando código, código de barras, descrição e preço.
+
+* ⏰ **[ZacPoint](https://zacode-tech.github.io/zacpoint/)**
+  Sistema completo de ponto eletrônico com suporte à biometria facial e crachá. Inclui controle de jornada (entradas, saídas e intervalos), cálculo automatizado de proventos/descontos (VT, INSS) com aprovação de RH e geração de holerite em PDF.
+
 
 ---
 
@@ -56,5 +66,5 @@
 
 ### 📫 Conecte-se Comigo
 
-* 💼 **LinkedIn:** https://www.linkedin.com/in/isac-gonçalves-651327238?utm_source=share_via&utm_content=profile&utm_medium=member_android
-* ✉️ **E-mail profissional:** Isacgoncalves2022@gmail.com
+* 💼 **LinkedIn:** [Isac Gonçalves](https://www.linkedin.com/in/isac-gon%C3%A7alves-651327238)
+* ✉️ **E-mail:** [Isacgoncalves2022@gmail.com](mailto:Isacgoncalves2022@gmail.com)
